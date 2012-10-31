@@ -6,7 +6,7 @@ This is the starting point for the first Rails session of the Triangle Ruby on R
 
 Clone the project:
 
-    git clone https://github.com/triangle-ror/cookbook-session-1.git
+    git clone git@github.com:triangle-ror/cookbook-session-1.git
 
 Change to the cookbook directory:
 
